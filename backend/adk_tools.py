@@ -1,9 +1,8 @@
-# adk_tools.py
+
 import traceback
 from googleapiclient.errors import HttpError
 
-# Note: This tool *requires* the authenticated gmail_service object to be passed in.
-# We will use functools.partial in the main script to bind the service object.
+
 
 def delete_email_tool(gmail_service, message_id: str) -> dict:
     """
