@@ -23,7 +23,7 @@ A desktop application built with Python, Flet, and Google ADK that automatically
 *   **GUI Framework:** [Flet](https://flet.dev/)
 *   **Agent Framework:** [Google Agent Development Kit (ADK)](https://github.com/google/agent-development-kit)
 *   **LLM Interface:** [LiteLLM](https://github.com/BerriAI/litellm) (used by ADK)
-*   **AI Model:** Google Gemini (e.g., `gemini-1.5-flash-latest` via Google AI Studio API)
+*   **AI Model:** Google Gemini (e.g., `gemini-2.0-flash` via Google AI Studio API)
 *   **Google Services:**
     *   Gmail API
     *   Google Cloud Platform (for OAuth Credentials)
