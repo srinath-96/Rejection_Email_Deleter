@@ -141,7 +141,7 @@ def main():
 
     # 2. Get User Input
     while True:
-        recipient_email ="srinathmurali2019@gmail.com" #input("Enter the recipient email address: ").strip()
+        recipient_email ="smk2069@gmail.com" #input("Enter the recipient email address: ").strip()
         if '@' in recipient_email and '.' in recipient_email: # Basic validation
             break
         else:
