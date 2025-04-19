@@ -2,8 +2,8 @@
 
 A desktop application built with Python, Flet, and Google ADK that automatically identifies job rejection emails in your Gmail inbox using AI (Gemini) and moves them to the Trash.
 
-![Screenshot Placeholder](placeholder.png)
-*(Optional: Replace placeholder.png with an actual screenshot of the app)*
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/8eecf255-f43f-463a-a032-142a2b8a2734" />
+
 
 ## Features
 
