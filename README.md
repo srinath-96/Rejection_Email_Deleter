@@ -155,5 +155,4 @@ The `backend/send_mock_rejections.py` script can be used to send simple test ema
 
 ## License
 
-*(Optional: Choose a license, e.g., MIT)*
 This project is licensed under the MIT License - see the LICENSE.md file for details.
