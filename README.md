@@ -34,8 +34,8 @@ A desktop application built with Python, Flet, and Google ADK that automatically
 
 1.  **Clone the Repository:**
     ```bash
-    git clone <your-repository-url>
-    cd email_cleanup
+    git clone https://github.com/srinath-96/Rejection_Email_Deleter
+    cd Rejection_Email_Deleter
     ```
 
 2.  **Create and Activate Virtual Environment:**
